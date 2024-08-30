@@ -1,0 +1,22 @@
+{
+    "hostnames" : [
+        "batman@batcave",
+        "admin@localhost",
+        "taco@bell",
+        "daves@hotchicken",
+        "bussin@buns", 
+        "ball@26thwest",
+        "xcom@theG"
+    ],
+    "intro-desc" : [
+        "Welcome to my terminal-themed personal website! ",
+        "Type 'help' or click on the buttons for navigation. "
+    ],
+    "sections" : [
+        "about", 
+        "work", 
+        "projects",
+        "skills", 
+        "contact"
+    ]
+}
